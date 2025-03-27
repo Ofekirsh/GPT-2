@@ -1,4 +1,4 @@
-GPT-2 Language Modeling: English & Hebrew
+## GPT-2 Language Modeling: English & Hebrew
 
 <img src="images/gpt2_image.png" >
 
