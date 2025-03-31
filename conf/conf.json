@@ -1,0 +1,12 @@
+{
+  "seq_len": 128,
+  "batch_size": 64,
+  "data_path": "data/heb-data/",
+  "n_layers": 8,
+  "n_heads": 8,
+  "embed_size": 192,
+  "learning_rate": 5e-4,
+  "gradient_clipping": 1.0,
+  "weight_decay": 1e-4,
+  "num_batches_to_train": 50000
+}
