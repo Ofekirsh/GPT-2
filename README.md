@@ -10,7 +10,7 @@ The model is trained separately on two datasets:
 - Hebrew: A Hebrew language corpus
 
 
-The results of the models can be found in [results.pdf](./results.pdf).
+The results of the models can be found in [report.pdf](./report.pdf).
 
 <img src="images/attention_layer1_head2.png" width="400px">
 
