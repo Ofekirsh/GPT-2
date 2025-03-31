@@ -1,6 +1,6 @@
 ## GPT-2 Language Modeling: English & Hebrew
 
-<img src="images/gpt2_image.png" >
+<img src="images/gpt2_image.png" width="400px">
 
 
 This project implements a transformer-based language model inspired by GPT-2.
@@ -12,12 +12,10 @@ The model is trained separately on two datasets:
 
 The results of the models can be found in [results.pdf](./results.pdf).
 
-<img src="images/attention_layer1_head2.png" >
+<img src="images/attention_layer1_head2.png" width="400px">
 
 The heatmap below shows the attention scores from Layer 1, Head 2 on a sample from the Shakespeare dataset.
 Brighter values indicate stronger attention. The strong diagonal reflects high attention to the previous token, as expected in causal language modeling.
-
-Perfect — based on your script and config, here’s a clean **“Running the Code”** section in the same format as before, tailored for your **GPT-2 Language Modeling repo**:
 
 ---
 
